@@ -1,0 +1,21 @@
+name: GitHub-Profile-PacMan
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-pacman
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: maurodesouza/github-profile-pacman@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # The output directory
+          OUTPUT_DIR: 'output'
