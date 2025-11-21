@@ -1,23 +1,14 @@
 <h1 align="center">Hello, World! 🌎 </h1>
-<h3 align="center">Desenvolvedora Back-end Jr.</h3>
 
 <table>
   <tr>
     <td valign="top" width="80%">
-      <p>
-Desenvolvedora Back-end apaixonada por tecnologia e por transformar ideias em soluções de software eficientes. Estou sempre em busca de novos desafios para continuar aprendendo e evoluindo como profissional. 💻📚🩷
-      </p>
-      <p>
-Back-end Developer passionate about technology and turning ideas into efficient software solutions. I'm always seeking new challenges to keep learning and growing as a professional. 💻📚🩷     </p>
-      <br>
       <h3>Habilidades Técnicas</h3>
       <div align="left">
         <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
         <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
         <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
         <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-        <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-        <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
         <img src="https://skillicons.dev/icons?i=react" height="40" alt="react native logo"  />
         <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
         <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
